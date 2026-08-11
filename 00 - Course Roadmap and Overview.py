@@ -1,4 +1,8 @@
 # Databricks notebook source
+# /// script
+# [tool.databricks.environment]
+# environment_version = "5"
+# ///
 # DBTITLE 1,Databricks Solution Architect - Complete Training Roadmap
 # MAGIC %md
 # MAGIC # 🎓 Databricks Solution Architect Training Program
@@ -869,6 +873,3 @@ display(fig)
 
 print("\n🎓 Your journey to becoming a Databricks Solution Architect starts now!")
 print("🚀 Navigate to Module 1 to begin your training.")
-
-# COMMAND ----------
-
